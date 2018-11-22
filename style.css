@@ -1487,3 +1487,7 @@ li {
 	color: #fff;
 	cursor: pointer;
 }
+.main-logo{
+    max-height: 15vh;
+    margin: 3vh 0 3vh 0;
+}
